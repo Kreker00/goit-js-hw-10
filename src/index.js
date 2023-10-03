@@ -21,7 +21,6 @@ fetchBreeds()
       select: refs.breedList,
       settings: {
         placeholderText: 'Please, select a cat breed',
-        // пошук
         searchText: 'Sorry nothing to see here',
         searchPlaceholder: 'Search your favorite breeds!',
         searchHighlight: true,
