@@ -3,7 +3,7 @@ import { Notify } from 'notiflix/build/notiflix-notify-aio';
 
 axios.defaults.baseURL = 'https://api.thecatapi.com';
 axios.defaults.headers.common['x-api-key'] =
-  'live_A3ZSRujL9i0dmt1zQPz6xhOQWX9GuLdo6JWDcBab6VSCSuKeM20Dut29LtXjfc01';
+  'live_nzq3i8DuaX9JyyHGLnlhhs6YuB6X8w46j2g0eXzA9Q0V0N0h32stlZP5ImY9YcBQ';
 
 const refs = {
   breedList: document.querySelector('.breed-select'),
